@@ -7,7 +7,7 @@ This is a simple hybrid App (Android, Java)
 * Load your site, for example : github profile
 * Receive push notification token and messages.
 
-## Getting Start
+## Getting Started
 
 * Step 1 : First of All \
 Create Firebase project and replace the google-services.json with yours. 
